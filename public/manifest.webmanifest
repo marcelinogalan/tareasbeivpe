@@ -1,0 +1,17 @@
+{
+  "name": "Tareas BEI VPE",
+  "short_name": "Tareas",
+  "description": "Gestor de tareas offline-first con sincronizacion opcional.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eaf2ff",
+  "theme_color": "#0a3baf",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
